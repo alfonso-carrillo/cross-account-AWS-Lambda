@@ -124,6 +124,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-events
 # End of https://www.gitignore.io/api/osx,node,linux,windows
